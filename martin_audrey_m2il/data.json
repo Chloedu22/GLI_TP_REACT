@@ -1,0 +1,8 @@
+{
+	"users" : ["Anime","Julie","Kevin"],
+	"costs": [
+		{"paidBy": "Amine", "title": "Beer", "amount":15}
+		{"paidBy": "Julie", "title": "Restaurant", "amount":50}
+		{"paidBy": "Kevin", "title": "Hotel", "amount":150}
+	]
+}

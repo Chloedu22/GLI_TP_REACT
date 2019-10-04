@@ -1,0 +1,31 @@
+#add{
+	width: 100%;
+}
+
+#selectUser{
+	width: 25%;
+	margin:1%;
+}
+
+#inputTitle{
+	width: 32%;
+}
+
+#inputAmount{
+	width: 19%;
+	margin:1%;
+}
+
+#buttonAdd{
+	background-color: #277aca;
+	border: none;
+	text-align: center;
+	border-radius: 4px;
+	padding:1%;
+	padding-right: 2.5%;
+	padding-left: 2.5%;
+	width: 9%;
+	margin:0.5%;
+	color:white;
+	font-weight: bold;
+}

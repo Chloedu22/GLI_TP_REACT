@@ -1,0 +1,16 @@
+#total{
+	background-color: #415656;
+	color:#c8c8c8;
+	padding:2%;
+	text-align: right;
+	margin-top: 2%;
+}
+
+#totalamount{
+		font-weight: bold;
+}
+
+#amount{
+	color:white;
+}
+
